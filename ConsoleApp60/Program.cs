@@ -11,7 +11,7 @@ namespace ConsoleApp60
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("This project is using C# 7.3 features.");
+            Console.WriteLine("This project is using C# 8.3features.");
             Console.ReadLine();
 
         }
